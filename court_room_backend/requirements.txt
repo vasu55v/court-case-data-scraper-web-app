@@ -1,0 +1,12 @@
+Django==5.2.4
+djangorestframework==3.16.0
+django-cors-headers==4.7.0
+psycopg2-binary==2.9.10
+python-decouple==3.8
+playwright==1.43.0  
+beautifulsoup4==4.13.4
+requests==2.32.4
+celery==5.5.3
+redis==5.0.7
+gunicorn==23.0.0
+whitenoise==6.7.0 
